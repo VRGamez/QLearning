@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "QLearning", "QLearning\QLearning.pyproj", "{EB5B3EE5-8078-4558-804F-853C4C0A4A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5B3EE5-8078-4558-804F-853C4C0A4A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5B3EE5-8078-4558-804F-853C4C0A4A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D635AB79-E7FF-49A2-AF03-7353D961BACD}
+	EndGlobalSection
+EndGlobal
